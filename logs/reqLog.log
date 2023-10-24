@@ -1,0 +1,9 @@
+20231011	15:43:59	44c4b08e-4b7e-4747-8b47-700780618ad2	GET	/	undefined
+20231011	15:43:59	b7b1cfb7-c4a0-4e72-a38a-60b88c6815c0	GET	/css/style.css	undefined
+20231012	19:16:27	de89685f-160f-46c2-b093-a54b299a49f7	GET	/	undefined
+20231012	19:16:27	e63dd8c7-9f99-447a-a406-6553c47c5e5d	GET	/css/style.css	undefined
+20231012	19:16:27	28b520a6-8856-4f7f-a448-5e6416cc4259	GET	/favicon.ico	undefined
+20231012	19:17:08	2699dde7-14dd-48ab-8001-d1d687cc6a7f	OPTIONS	/	https://www.google.com
+20231012	19:17:08	34700239-e166-4b76-809b-6cfb41802121	GET	/	https://www.google.com
+20231012	19:23:33	f865d2d4-b520-4641-8dcb-64583c91b7a1	OPTIONS	/	https://www.google.com
+20231012	19:23:33	861d1127-c56b-4a1e-ab33-38b7b7b96309	GET	/	https://www.google.com
